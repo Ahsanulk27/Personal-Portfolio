@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('./images/isai-ramos-\_3SFFsWqCVg-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+ 
+}
+#hero h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: rgb(150, 152, 153);
+}
+
+#hero p {
+  font-family: "Lora", serif;
+  font-size: 1.8em;
+  
+  color: rgb(150, 152, 153);
+}
+
+.photo >img{
+  border-radius: 50%;
+    height: 250px; 
+    width: 250px; 
+    
+}
+
+#hobbies .card{
+  border: none;
+}
+
+
+
+#hobbies h2{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400 !important;
+  color: rgb(150, 152, 153) !important;
+}
+
+#resume h2{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400 !important;
+  color: rgb(150, 152, 153) !important;
+}
+
+#resume h3{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: rgb(150, 152, 153);
+}
+
+#resume p{
+  font-family: "Lora", serif;
+  font-size: 1.8em;
+  color: rgb(150, 152, 153);
+}
+
+svg{
+  background-color: rgb(31, 48, 59) ;
+}
+
+svg path {
+  fill: rgb(150, 152, 153); /* Change the color to red */
+}
+
+.custom-bullets li{
+  color: white;
+}
+
+.card-body h3{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color:  rgb(150, 152, 153);;
+}
+
+.card-body p{
+  font-family: "Lora", serif;
+  font-size: 1.2em;
+  color:  rgb(150, 152, 153);
+}
+
+.card-body{
+  background-color: rgb(16, 25, 31);
+}
+
+.footer-card{
+  background-color: rgb(16, 25, 31);
+}
+  
+.footer-card p{
+  color: rgb(150, 152, 153);
+  font-family: "Lora", serif;
+  font-size: 1.2em;
+}
